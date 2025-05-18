@@ -1,3 +1,7 @@
 .ssh
 .venv
 saved_model.pkl
+._baseline_code.ipynb
+._requirements.txt
+output.csv
+
